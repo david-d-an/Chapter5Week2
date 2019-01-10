@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Exclude big files
+glove.6B.50d.txt
+
 # C extensions
 *.so
 
